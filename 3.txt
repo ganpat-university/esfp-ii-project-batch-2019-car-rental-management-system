@@ -1,0 +1,8 @@
+
+*****************************NANO*****************************
+
+
+
+Mileage:36 kmpl				Engine:624 cc
+Transmission:Manual			FuelType:CNG
+Seating Capacity:4			

@@ -1,0 +1,7 @@
+****************************FORTUNER******************************************
+
+ARAI Mileage:15.04 kmpl				City Mileage:12.38 kmpl
+Fuel Type:Diesel				Engine Displacement (cc):2755
+Seating Capacity:7
+
+*****************************************************************************

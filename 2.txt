@@ -1,0 +1,8 @@
+*************************datson go***********************
+
+
+Fuel type:Petrol			Transmission type:5-Speed Manual
+
+ARAI Mileage (kmpl):19.72 km/l		Engine:HR12 DE Engine
+
+seating capacity:4

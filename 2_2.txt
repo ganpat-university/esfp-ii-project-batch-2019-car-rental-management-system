@@ -1,0 +1,5 @@
+*********************************i10*********************************
+ARAI Mileage:16.95 kmpl				City Mileage:13.45 kmpl
+Fuel Type:Petrol				Engine Displacement (cc):1197
+Seating Capacity:5
+**********************************************************************

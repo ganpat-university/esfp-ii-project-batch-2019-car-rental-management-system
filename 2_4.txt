@@ -1,0 +1,7 @@
+************************cooper convertable***************************
+
+Engine Displ. :1998 cc			Power :189.08bhp@5000-6000rpm
+Torque :280Nm@1250rpm			Top Speed (KMPH) :228
+Adjustable Driver Seat :Yes
+
+**********************************************************************

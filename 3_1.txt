@@ -1,0 +1,6 @@
+***************************XUV 500********************************
+
+ARAI Mileage:15.1 kmpl			City Mileage:11.83 kmpl
+Fuel Type:Diesel			Engine Displacement (cc):2179
+Seating Capacity:7
+*******************************************************************
